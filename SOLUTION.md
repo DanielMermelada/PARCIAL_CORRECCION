@@ -36,3 +36,7 @@ Lo positivo es la dependencia de varias clases e interacción entre varias clase
 TEORIA 4
 
 [Teoria.pdf](https://github.com/Lamermelada42/PARCIAL_CORRECCION/files/6372950/Teoria.pdf)
+
+SONAR 5
+
+![Sonar](https://user-images.githubusercontent.com/78450705/116010007-1e088980-a5e2-11eb-890c-dcd80cad7ba6.png)
